@@ -8,6 +8,3 @@ My name is Douglas Lawton. I am a landscape ecologist and just recieved my PhD f
 
 
 
-### My story
-
-I grew up in a small town in rural North Carolina called Randleman. Here, I  
