@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Curious about the world and how things work.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Douglas Lawton. I am a landscape ecologist and just recieved my PhD from [Arizona State University](asu.edu). Broadly, I am interested in developing biologically relevant hierarchical theoretical and statistical models to understand the complexities of ecological phenomenon. My dissertation focused on understanding what causes locust swarms in Australia, Africa, and Asia. By acknowleding the multi-scale nature of any system, we can increase our fundamental understanding and promote more effective management of animal populations. If this interests you, please reach out!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I grew up in a small town in rural North Carolina called Randleman. Here, I  
